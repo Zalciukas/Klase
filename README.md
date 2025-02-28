@@ -39,6 +39,3 @@ All tests passed successfully.
 ## Notes
 - No deep copy mechanism implemented.
 - Ensure proper memory management.
-
-## License
-Open-source and free to use.
