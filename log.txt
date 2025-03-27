@@ -1,0 +1,12 @@
+Test 1: Constructor - PASSED
+Test 2: Push and += Operator - PASSED
+Test 3: Pop and -- Operator - PASSED
+Test 4: Top Element - PASSED
+Test 5: Stack Underflow - PASSED
+Test 6: Clear - PASSED
+Test 7: Move Constructor - PASSED
+Test 8: Equality and Inequality Operators - PASSED
+Test 9: Free Memory (! Operator) - PASSED
+Test 10: Comparison Operators - PASSED
+Test 11: Size Method - PASSED
+All tests completed.
